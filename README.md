@@ -8,6 +8,8 @@ A Node.js CLI tool and library to heavily obfuscate bash scripts.
 ## Installation
 
 ```
+$ sudo apt update
+$ sudo apt install nodejs npm
 $ npm install -g bash-obfuscate
 $ bash-obfuscate script.sh -o output.sh
 ```
