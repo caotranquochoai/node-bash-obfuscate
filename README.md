@@ -2,7 +2,7 @@
 [![npm](https://img.shields.io/npm/l/bash-obfuscate.svg)](https://github.com/willshiao/node-bash-obfuscate/blob/master/LICENSE)
 [![npm](https://img.shields.io/npm/v/bash-obfuscate.svg)](https://www.npmjs.com/package/bash-obfuscate)
 
-A Node.js CLI tool and library to heavily obfuscate bash scripts.
+A Node.js CLI tool and library to heavily obfuscate bash scripts. Ubuntu 20.08
 
 
 ## Installation
